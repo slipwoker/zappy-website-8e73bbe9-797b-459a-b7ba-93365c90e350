@@ -1,0 +1,61 @@
+# Laser Action — Generative Engine Optimization Map
+
+> A בידור ופנאי business.
+
+---
+
+## Pages
+
+### בית
+https://laser-action-8e73bbe9.zappy5.app
+חוויית לייזר טאג מרגשת בזירה מקצועית. משחקי קבוצות לגילאי 12+, ציוד מתקדם ואווירה אדרנלינית. קבעו את המשחק הבא שלכם עכשיו!
+
+### איך זה עובד
+https://laser-action-8e73bbe9.zappy5.app/how-it-works
+גלו איך עובד משחק לייזר טאג ב-Laser Action. כללי משחק, תהליך, שאלות נפוצות וכל מה שצריך לדעת לפני המשחק הראשון שלכם.
+
+### מחירים וקבוצות
+https://laser-action-8e73bbe9.zappy5.app/pricing
+מחירון שקוף וגמיש למשחקי לייזר טאג. חבילות לקבוצות קטנות, בינוניות וגדולות. הנחות לקבוצות גדולות ואירועים מיוחדים.
+
+### אודות
+https://laser-action-8e73bbe9.zappy5.app/about
+הכירו את Laser Action - הצוות, הערכים והחזון שלנו. אנחנו יוצרים חוויות לייזר טאג בלתי נשכחות עם ציוד מתקדם וזירה מקצועית.
+
+### צור קשר
+https://laser-action-8e73bbe9.zappy5.app/contact
+צרו קשר עם Laser Action לקביעת משחק, שאלות או פרטים נוספים. זמינים בטלפון, WhatsApp ודרך טופס יצירת קשר. נשמח לעזור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://laser-action-8e73bbe9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://laser-action-8e73bbe9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://laser-action-8e73bbe9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Laser Action
+Laser Action is a business in the בידור ופנאי industry.
+
+## Target Audience
+גילאי 12 ומעלה, קבוצות של מינימום 4 אנשים
+
+## Industry
+בידור ופנאי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://laser-action-8e73bbe9.zappy5.app/sitemap.xml
+- **Robots.txt**: https://laser-action-8e73bbe9.zappy5.app/robots.txt
